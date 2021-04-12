@@ -4,6 +4,8 @@ cd abc  = Jump into abc
 mkdir abc = Create abc folder
 ls = view of files in cert directory
 
+git clone https://github.com/kdorland/webtek-spring-2021      =   lærers git
+
 npm install live-server - g
 
 Git
