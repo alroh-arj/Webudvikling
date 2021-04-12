@@ -1,0 +1,17 @@
+Bash
+cd  = Jump Back
+cd abc  = Jump into abc
+mkdir abc = Create abc folder
+ls = view of files in cert directory
+
+npm install live-server - g
+
+Git
+git init   = init en git
+git status  = status på git
+git add = add file
+git rm = remove file
+git commit = commit a change
+git log = logs of git
+git push = push updates to github
+git pull = pull updates from github
